@@ -1,0 +1,253 @@
+# depslib dependency file v1.0
+1710417137 source:c:\users\zhilk\onedrive\Документы\УЧЕБА\graphock\lab_1\main.c
+	<windows.h>
+	<gl/gl.h>
+	"../Lab_1/stb-master/Menu.h"
+	"C:\Users\zhilk\OneDrive\Документы\УЧЕБА\Graphock\Lab_1\stb-master\stb_image.h"
+
+1710404563 c:\users\zhilk\onedrive\Документы\УЧЕБА\graphock\lab_1\stb-master\menu.h
+
+1710404835 source:c:\users\zhilk\onedrive\Документы\УЧЕБА\graphock\lab_1\stb-master\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\zhilk\OneDrive\Рабочий стол\2 lab\project\stb_easy_font.h"
+	"Menu.h"
+
+1710395920 c:\users\zhilk\onedrive\Рабочий стол\2 lab\project\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029753 c:\users\zhilk\onedrive\Документы\УЧЕБА\graphock\lab_1\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1710404835 source:c:\computer-graphics\lab_2\stb-master\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\zhilk\OneDrive\Рабочий стол\2 lab\project\stb_easy_font.h"
+	"Menu.h"
+
+1710404563 c:\computer-graphics\lab_2\stb-master\menu.h
+
+1710427784 source:c:\computer-graphics\lab_2\main.c
+	<windows.h>
+	<gl/gl.h>
+	"../LAB_2/stb-master/Menu.h"
+	"C:/Computer-Graphics/LAB_2/stb-master/stb_image.h"
+
+1674029753 c:\computer-graphics\lab_2\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1711119176 source:c:\users\zhilk\desktop\computer-graphics\lab_3\main.c
+	<windows.h>
+	<gl/gl.h>
+	"../LAB_3/stb-master/Menu.h"
+	"../LAB_3/stb-master/stb_image.h"
+
+1710429445 c:\users\zhilk\desktop\computer-graphics\lab_2\stb-master\menu.h
+
+1710429445 source:c:\users\zhilk\desktop\computer-graphics\lab_3\stb-master\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\zhilk\OneDrive\Рабочий стол\2 lab\project\stb_easy_font.h"
+	"Menu.h"
+
+1710429445 c:\users\zhilk\desktop\computer-graphics\lab_3\stb-master\menu.h
+
+1710429445 c:\users\zhilk\desktop\computer-graphics\lab_3\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1711270042 source:c:\users\zhilk\desktop\computer-graphics — копия\lab_3\stb-master\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\zhilk\Desktop\Computer-Graphics — копия\LAB_3\stb-master\stb_easy_font.h"
+	"Menu.h"
+
+1711121174 c:\users\zhilk\desktop\computer-graphics — копия\lab_3\stb-master\menu.h
+
+1711269401 source:c:\users\zhilk\desktop\computer-graphics — копия\lab_3\main.c
+	<windows.h>
+	<gl/gl.h>
+	"../LAB_3/stb-master/Menu.h"
+	"../LAB_3/stb-master/stb_image.h"
+
+1711121174 c:\users\zhilk\desktop\computer-graphics — копия\lab_3\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1711121174 c:\users\zhilk\desktop\computer-graphics — копия\lab_3\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1711809791 source:c:\users\utvit\onedrive\Документы\РАБОТЫ -ИРНИТУ-\2 КУРС\Компьютерная графика\ЛР №3\kglab3\stb-master\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb_easy_font.h"
+	"Menu.h"
+
+1711270912 c:\users\utvit\onedrive\Документы\РАБОТЫ -ИРНИТУ-\2 КУРС\Компьютерная графика\ЛР №3\kglab3\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1711270912 c:\users\utvit\onedrive\Документы\РАБОТЫ -ИРНИТУ-\2 КУРС\Компьютерная графика\ЛР №3\kglab3\stb-master\menu.h
+
+1712079599 source:c:\users\utvit\onedrive\Документы\РАБОТЫ -ИРНИТУ-\2 КУРС\Компьютерная графика\ЛР №3\kglab3\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb-master/Menu.h"
+	"stb-master/stb_image.h"
+	<stdio.h>
+	"stb-master/stb_easy_font.h"
+
+1711270912 c:\users\utvit\onedrive\Документы\РАБОТЫ -ИРНИТУ-\2 КУРС\Компьютерная графика\ЛР №3\kglab3\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1714662454 source:c:\users\kezhu\onedrive\Рабочий стол\kg\stb-master\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb_easy_font.h"
+	"Menu.h"
+
+1711270912 c:\users\kezhu\onedrive\Рабочий стол\kg\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1711270912 c:\users\kezhu\onedrive\Рабочий стол\kg\stb-master\menu.h
+
+1714662797 source:c:\users\kezhu\onedrive\Рабочий стол\kg\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb-master/Menu.h"
+	"stb-master/stb_image.h"
+	<stdio.h>
+	"stb-master/stb_easy_font.h"
+
+1711270912 c:\users\kezhu\onedrive\Рабочий стол\kg\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1714662797 source:c:\users\kezhu\onedrive\Рабочий стол\Сухов.А.В лаба 3 комп графика\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb-master/Menu.h"
+	"stb-master/stb_image.h"
+	<stdio.h>
+	"stb-master/stb_easy_font.h"
+
+1711270912 c:\users\kezhu\onedrive\Рабочий стол\Сухов.А.В лаба 3 комп графика\stb-master\menu.h
+
+1711270912 c:\users\kezhu\onedrive\Рабочий стол\Сухов.А.В лаба 3 комп графика\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1711270912 c:\users\kezhu\onedrive\Рабочий стол\Сухов.А.В лаба 3 комп графика\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1714662454 source:c:\users\kezhu\onedrive\Рабочий стол\Сухов.А.В лаба 3 комп графика\stb-master\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb_easy_font.h"
+	"Menu.h"
+
